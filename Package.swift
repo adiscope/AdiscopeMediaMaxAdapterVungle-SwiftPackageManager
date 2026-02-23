@@ -13,8 +13,8 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git", exact: "13.4.0"),
-        .package(url: "https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager.git", exact: "7.5.2"),
+        .package(url: "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git", exact: "13.5.1"),
+        .package(url: "https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager.git", exact: "7.6.3"),
     ],
     targets: [
         .target(
@@ -29,13 +29,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdiscopeMediaMaxAdapterVungle",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.0.0/AdiscopeMediaMaxAdapterVungle.zip",
-            checksum: "c64dd3e9e70051b0e62d162907cf38beee4c25762c16a0daed366961b300a492"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.2.0/AdiscopeMediaMaxAdapterVungle.zip",
+            checksum: "279f368650c19860ee92e0c1e380154dacd850b28b68fdf4ae44fb6701c93af4"
         ),
         .binaryTarget(
             name: "AdiscopeMediaMaxAdapterVungleMediationAdapter",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.0.0/AppLovinMediationVungleAdapter.xcframework.zip",
-            checksum: "67d0931047c54329b4b7a0c22bae90453f9fee200455c179f78cf7387d0c962b"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.2.0/AppLovinMediationVungleAdapter.xcframework.zip",
+            checksum: "322227aef9cb2487fcf81b63fa47d2261c76f4052ba3a596861193659ab2f465"
         ),
     ]
 )
