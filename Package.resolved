@@ -5,8 +5,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/AppLovin/AppLovin-MAX-Swift-Package.git",
       "state" : {
-        "revision" : "b5acf713209298059bb2f09b22d84d523454bc7b",
-        "version" : "13.5.1"
+        "revision" : "d829feb5b7de8755e9a1834c2e1e0b95c9126424",
+        "version" : "13.6.2"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/Vungle/VungleAdsSDK-SwiftPackageManager.git",
       "state" : {
-        "revision" : "ee4f0cb9244298a9d5dbadd29c9fd5798d49ee71",
-        "version" : "7.6.3"
+        "revision" : "73e7f5cb0541f2040ca5e4fe17c159f18202ea6d",
+        "version" : "7.7.2"
       }
     }
   ],
